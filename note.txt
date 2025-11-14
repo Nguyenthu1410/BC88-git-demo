@@ -14,3 +14,4 @@ Bước 3: kết nối local repo và remote repo với nhau: git remote add ori
 3. push code lên remote repo
    git push -u origin "tên nhánh" --- chỉ dùng cho lần đầu tiên push lên 1 nhánh 
    git push                       --- từ lần 2 trở đi trên 1 nhánh 
+   v2
