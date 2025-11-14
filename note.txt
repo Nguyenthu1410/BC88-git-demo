@@ -3,3 +3,14 @@ Bước 2: tạo remote repository: tạo repo trên git hub
 Bước 3: kết nối local repo và remote repo với nhau: git remote add origin "url của remote repo"
 
 đẩy các file lên git sever ( remote repo)
+1. khai các file cần đẩy lên remote repo
+   git add "tên file"
+   git add -A
+   git add .
+
+2. Commit: message phải có ý nghĩa đúng với nội dung các file đc đẩy lên remote repo
+   git commit -m "message commit" 
+
+3. push code lên remote repo
+   git push -u origin "tên nhánh" --- chỉ dùng cho lần đầu tiên push lên 1 nhánh 
+   git push                       --- từ lần 2 trở đi trên 1 nhánh 
