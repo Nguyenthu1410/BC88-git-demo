@@ -1,0 +1,5 @@
+Bước 1: tạo local repository: git init
+Bước 2: tạo remote repository: tạo repo trên git hub
+Bước 3: kết nối local repo và remote repo với nhau: git remote add origin "url của remote repo"
+
+đẩy các file lên git sever ( remote repo)
