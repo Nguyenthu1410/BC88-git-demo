@@ -14,4 +14,9 @@ Bước 3: kết nối local repo và remote repo với nhau: git remote add ori
 3. push code lên remote repo
    git push -u origin "tên nhánh" --- chỉ dùng cho lần đầu tiên push lên 1 nhánh 
    git push                       --- từ lần 2 trở đi trên 1 nhánh 
-   v2
+   
+
+tham gia dự án với vai trò đc mời
+Bước 1 : chủ dự án mời người tham gia thông mail
+Bước 2 : người tham gia kéo source code của dự án về git clone "url git của dự án"
+ git demo 
